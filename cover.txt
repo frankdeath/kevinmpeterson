@@ -1,0 +1,8 @@
+The little things
+
+Developing software is fun and exciting.  Maintaining software, especially software written by others, is considerably less exciting, but arguably more important.  Writing software with an appreciation that someone else will have to maintain your code leads to making better decisions that save money in the long run (writing good documentation, using a revision control system, using standard libraries rather than reinventing the wheel).  I always taking into account the maintenance burden when developing software.
+
+Taking the time to help others, especially to answer remedial questions, can be incredibly beneficial.  If I spend 15 minutes showing someone how to save 5 minutes on a task they do repeatedly, it doesn't take long before that effort pays for itself.  I have never found that helping a coworker understand a new computing idea to be a waste of time, even though it costs me some time that could be spent on my own projects.
+
+I've worked with people who feel they have turf to defend and sharing information about what they do makes them less valuable because others might be able to replace them.  I reject that view.  I appreciate my role in an organization.  I welcome the interest of others in what I do.  If I'm able to share what I do with others, the organization becomes stronger.  My coworkers become more knowledgable and productive.
+
